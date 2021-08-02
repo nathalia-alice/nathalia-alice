@@ -2,7 +2,7 @@
 
 - 👋 Hello, I’m @nathalia-alice
 - 👀 I’m interested in Javascript, HTML, CSS, React, Angular
-- 🌱 I’m currently learning Javascript, Refactoring, Coding best practices, Clean Code and Architecture
+- 🌱 I’m currently learning Javascript, Refactoring, Coding best practices, Clean Code, Architecture
 - 💞️ I’m looking to collaborate on JavaScript projects.
 
 ## SKILLS
