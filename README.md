@@ -1,8 +1,8 @@
 ## Who I am?
 
 - 👋 Hello, I’m @nathalia-alice
-- 👀 I’m interested in Javascript, HTML, CSS, React, Angular and Oracle Commerce Cloud
-- 🌱 I’m currently learning Javascript, Refactoring, Coding best practices, Clean Code and E-Commerce Architecture
+- 👀 I’m interested in Javascript, HTML, CSS, React, Angular
+- 🌱 I’m currently learning Javascript, Refactoring, Coding best practices, Clean Code and Architecture
 - 💞️ I’m looking to collaborate on JavaScript projects.
 
 ## SKILLS
