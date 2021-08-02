@@ -1,7 +1,7 @@
 ## Who I am?
 
 - 👋 Hello, I’m @nathalia-alice
-- 👀 I’m interested in Javascript, HTML, CSS, React, Angular
+- 👀 I’m interested in Javascript, HTML, CSS, React, Angular, Typescript
 - 🌱 I’m currently learning Javascript, Refactoring, Coding best practices, Clean Code, Architecture
 - 💞️ I’m looking to collaborate on JavaScript projects.
 
@@ -21,6 +21,9 @@
 </a>
 <a href="https://reactjs.org/" title="React">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="30px" height="30px">
+</a>
+<a href="https://angular.io/cli" title="Angular">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/angular-icon.svg" alt="C" width="30px" height="30px">
 </a>
 <a href="https://jquery.com/" title="jQuery">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="30px"
